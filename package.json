@@ -12,6 +12,7 @@
     "@types/chai": "^3.4.34",
     "@types/mocha": "^2.2.38",
     "@types/node": "^7.0.0",
-    "chai": "^3.5.0"
+    "chai": "^3.5.0",
+    "source-map-support": "^0.4.10"
   }
 }
